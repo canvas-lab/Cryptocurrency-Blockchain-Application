@@ -1,0 +1,180 @@
+2021/05/22 20:18:33 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/05/22 20:18:42 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/05/22 20:18:42 [INFO] ReservedBankAcct() - Succesfully called ReservedBankAcct method from the blockchain web app.
+2021/05/22 20:18:42 [INFO] startMiningThread() - dequeue a transaction from 0 to 1 with amount of 100.
+2021/05/22 20:18:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:42 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:42 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2021/05/22 20:18:42 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/05/22 20:18:42 [INFO] newHashGenerator() - trying to generate a new block with block id:1, from:0, to:1, amount:100, offset:112735, curr hash:12345008814383561874, prev hash:12345625696244847117.
+2021/05/22 20:18:42 [INFO] ValidateNewBlock() - validating the new block.
+2021/05/22 20:18:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:42 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:42 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:42 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/05/22 20:18:42 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:1, from:0, to:1, amount:100, offset:112735, curr hash:12345008814383561874, prev hash:12345625696244847117.
+2021/05/22 20:18:42 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/05/22 20:18:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:45 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:48 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:48 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/05/22 20:18:55 [INFO] startMiningThread() - dequeue a transaction from 0 to 1 with amount of 10.
+2021/05/22 20:18:55 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:55 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:55 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2021/05/22 20:18:55 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/05/22 20:18:55 [INFO] newHashGenerator() - trying to generate a new block with block id:2, from:0, to:1, amount:10, offset:167895, curr hash:12345150771847884463, prev hash:12345008814383561874.
+2021/05/22 20:18:55 [INFO] ValidateNewBlock() - validating the new block.
+2021/05/22 20:18:55 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:55 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:55 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:55 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:18:55 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/05/22 20:18:55 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:2, from:0, to:1, amount:10, offset:167895, curr hash:12345150771847884463, prev hash:12345008814383561874.
+2021/05/22 20:18:55 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/05/22 20:18:57 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:18:57 [INFO] GetTransactedCurrCoinBalance() - user 1 has 110 coin.
+2021/05/22 20:19:01 [INFO] startMiningThread() - dequeue a transaction from 1 to 2 with amount of 10.
+2021/05/22 20:19:01 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:01 [INFO] GetTransactedCurrCoinBalance() - user 1 has 110 coin.
+2021/05/22 20:19:01 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 110.
+2021/05/22 20:19:01 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/05/22 20:19:01 [INFO] newHashGenerator() - trying to generate a new block with block id:3, from:1, to:2, amount:10, offset:18815, curr hash:12345503941894454324, prev hash:12345150771847884463.
+2021/05/22 20:19:01 [INFO] ValidateNewBlock() - validating the new block.
+2021/05/22 20:19:01 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:01 [INFO] GetTransactedCurrCoinBalance() - user 1 has 110 coin.
+2021/05/22 20:19:01 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:01 [INFO] GetTransactedCurrCoinBalance() - user 1 has 110 coin.
+2021/05/22 20:19:01 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/05/22 20:19:01 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:3, from:1, to:2, amount:10, offset:18815, curr hash:12345503941894454324, prev hash:12345150771847884463.
+2021/05/22 20:19:01 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/05/22 20:19:03 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:03 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/05/22 20:19:05 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:05 [INFO] GetTransactedCurrCoinBalance() - user 2 has 10 coin.
+2021/05/22 20:19:08 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:08 [INFO] GetTransactedCurrCoinBalance() - user 345 has 0 coin.
+2021/05/22 20:19:28 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/05/22 20:19:32 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/05/22 20:19:32 [INFO] ReservedBankAcct() - Succesfully called ReservedBankAcct method from the blockchain web app.
+2021/05/22 20:19:32 [INFO] startMiningThread() - dequeue a transaction from 0 to 1 with amount of 111.
+2021/05/22 20:19:32 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:32 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:19:32 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2021/05/22 20:19:32 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/05/22 20:19:32 [INFO] newHashGenerator() - trying to generate a new block with block id:1, from:0, to:1, amount:111, offset:95205, curr hash:12345415061193288784, prev hash:12345625696244847117.
+2021/05/22 20:19:32 [INFO] ValidateNewBlock() - validating the new block.
+2021/05/22 20:19:32 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:32 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:19:32 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:32 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:19:32 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/05/22 20:19:32 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:1, from:0, to:1, amount:111, offset:95205, curr hash:12345415061193288784, prev hash:12345625696244847117.
+2021/05/22 20:19:32 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/05/22 20:19:40 [INFO] startMiningThread() - dequeue a transaction from 1 to 2 with amount of 11.
+2021/05/22 20:19:40 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:40 [INFO] GetTransactedCurrCoinBalance() - user 1 has 111 coin.
+2021/05/22 20:19:40 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 111.
+2021/05/22 20:19:40 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/05/22 20:19:40 [INFO] newHashGenerator() - trying to generate a new block with block id:2, from:1, to:2, amount:11, offset:171345, curr hash:12345322498840134133, prev hash:12345415061193288784.
+2021/05/22 20:19:40 [INFO] ValidateNewBlock() - validating the new block.
+2021/05/22 20:19:40 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:40 [INFO] GetTransactedCurrCoinBalance() - user 1 has 111 coin.
+2021/05/22 20:19:40 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:40 [INFO] GetTransactedCurrCoinBalance() - user 1 has 111 coin.
+2021/05/22 20:19:40 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/05/22 20:19:40 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:2, from:1, to:2, amount:11, offset:171345, curr hash:12345322498840134133, prev hash:12345415061193288784.
+2021/05/22 20:19:40 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/05/22 20:19:42 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:42 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/05/22 20:19:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:19:45 [INFO] GetTransactedCurrCoinBalance() - user 2 has 11 coin.
+2021/05/22 20:20:04 [INFO] startMiningThread() - dequeue a transaction from 2 to 1 with amount of 10.
+2021/05/22 20:20:04 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:04 [INFO] GetTransactedCurrCoinBalance() - user 2 has 11 coin.
+2021/05/22 20:20:04 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 11.
+2021/05/22 20:20:04 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/05/22 20:20:04 [INFO] newHashGenerator() - trying to generate a new block with block id:3, from:2, to:1, amount:10, offset:3480, curr hash:12345074627357138247, prev hash:12345322498840134133.
+2021/05/22 20:20:04 [INFO] ValidateNewBlock() - validating the new block.
+2021/05/22 20:20:04 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:04 [INFO] GetTransactedCurrCoinBalance() - user 2 has 11 coin.
+2021/05/22 20:20:04 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:04 [INFO] GetTransactedCurrCoinBalance() - user 2 has 11 coin.
+2021/05/22 20:20:04 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/05/22 20:20:04 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:3, from:2, to:1, amount:10, offset:3480, curr hash:12345074627357138247, prev hash:12345322498840134133.
+2021/05/22 20:20:04 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/05/22 20:20:08 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:08 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/05/22 20:20:10 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:10 [INFO] GetTransactedCurrCoinBalance() - user 1 has 110 coin.
+2021/05/22 20:20:10 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:10 [INFO] GetTransactedCurrCoinBalance() - user 1 has 110 coin.
+2021/05/22 20:20:12 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/05/22 20:20:12 [INFO] GetTransactedCurrCoinBalance() - user 2 has 1 coin.
+2021/06/02 13:33:53 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/06/02 13:34:03 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:03 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 13:34:12 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/06/02 13:34:12 [INFO] ReservedBankAcct() - Succesfully called ReservedBankAcct method from the blockchain web app.
+2021/06/02 13:34:12 [INFO] startMiningThread() - dequeue a transaction from 0 to 1 with amount of 100.
+2021/06/02 13:34:12 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:12 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 13:34:12 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2021/06/02 13:34:12 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/06/02 13:34:12 [INFO] newHashGenerator() - trying to generate a new block with block id:1, from:0, to:1, amount:100, offset:112735, curr hash:12345008814383561874, prev hash:12345625696244847117.
+2021/06/02 13:34:12 [INFO] ValidateNewBlock() - validating the new block.
+2021/06/02 13:34:12 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:12 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 13:34:12 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:12 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 13:34:12 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/06/02 13:34:12 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:1, from:0, to:1, amount:100, offset:112735, curr hash:12345008814383561874, prev hash:12345625696244847117.
+2021/06/02 13:34:12 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/06/02 13:34:16 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:16 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/06/02 13:34:19 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:19 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/06/02 13:34:25 [INFO] startMiningThread() - dequeue a transaction from 1 to 2 with amount of 50.
+2021/06/02 13:34:25 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:25 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/06/02 13:34:25 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 100.
+2021/06/02 13:34:25 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/06/02 13:34:25 [INFO] newHashGenerator() - trying to generate a new block with block id:2, from:1, to:2, amount:50, offset:50440, curr hash:12345970033608749515, prev hash:12345008814383561874.
+2021/06/02 13:34:25 [INFO] ValidateNewBlock() - validating the new block.
+2021/06/02 13:34:25 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:25 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/06/02 13:34:25 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:25 [INFO] GetTransactedCurrCoinBalance() - user 1 has 100 coin.
+2021/06/02 13:34:25 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/06/02 13:34:25 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:2, from:1, to:2, amount:50, offset:50440, curr hash:12345970033608749515, prev hash:12345008814383561874.
+2021/06/02 13:34:25 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/06/02 13:34:27 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:27 [INFO] GetTransactedCurrCoinBalance() - user 1 has 50 coin.
+2021/06/02 13:34:30 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:30 [INFO] GetTransactedCurrCoinBalance() - user 2 has 50 coin.
+2021/06/02 13:34:30 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 13:34:30 [INFO] GetTransactedCurrCoinBalance() - user 2 has 50 coin.
+2021/06/02 15:19:19 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/06/02 15:19:45 [INFO] ReservedBankAcct() - creating a reserved bank account in the blockchain with block id:0, from:0, to:0, amount:0, offset:229755, curr hash:12345625696244847117, prev hash:.
+2021/06/02 15:19:45 [INFO] ReservedBankAcct() - Succesfully called ReservedBankAcct method from the blockchain web app.
+2021/06/02 15:19:45 [INFO] startMiningThread() - dequeue a transaction from 0 to 1 with amount of 10.
+2021/06/02 15:19:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 15:19:45 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 15:19:45 [INFO] startMiningThread() - all transaction details are validated. the current coin balance is 3.402823E+38.
+2021/06/02 15:19:45 [INFO] startMiningThread() - the current coin balance is enough for transaction to occurs.
+2021/06/02 15:19:45 [INFO] newHashGenerator() - trying to generate a new block with block id:1, from:0, to:1, amount:10, offset:195675, curr hash:12345645888610915060, prev hash:12345625696244847117.
+2021/06/02 15:19:45 [INFO] ValidateNewBlock() - validating the new block.
+2021/06/02 15:19:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 15:19:45 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 15:19:45 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 15:19:45 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 15:19:45 [INFO] ValidateNewBlock() - the new block is a correct block.
+2021/06/02 15:19:45 [INFO] SubmitNewBlock() - A new block is added to the blockchain with block id:1, from:0, to:1, amount:10, offset:195675, curr hash:12345645888610915060, prev hash:12345625696244847117.
+2021/06/02 15:19:45 [INFO] SubmitNewBlock() - Succesfully called SubmitNewBlock method from the blockchain web app.
+2021/06/02 15:19:50 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 15:19:50 [INFO] GetTransactedCurrCoinBalance() - user 0 is a reserved bank account. it has infinite amount of coin.
+2021/06/02 15:19:53 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 15:19:53 [INFO] GetTransactedCurrCoinBalance() - user 1 has 10 coin.
+2021/06/02 15:20:13 [INFO] GetTransactedCurrCoinBalance() - retreiving the transacted current coin balance..
+2021/06/02 15:20:13 [INFO] GetTransactedCurrCoinBalance() - user 1 has 10 coin.
